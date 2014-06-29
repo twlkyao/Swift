@@ -16,6 +16,3 @@ println(value1)
 value1 = 20
 
 var value2:String? // 默认为nil
-
-// 
-
